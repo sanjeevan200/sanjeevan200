@@ -1,118 +1,208 @@
-# Hi 👋, I'm Sanjeevan
+<!-- ===================================================== -->
+<!--                  SANJEEVAN200 PROFILE                  -->
+<!-- ===================================================== -->
 
-## 🚀 About Me
-- Associate UI/UX Designer
-- Passionate about UI/UX
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Sanjeevan Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sanjeevan</h1>
 
-<h3 align="center">
-Associate UI/UX Designer | Product Designer | Creative Thinker
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Associate+UI%2FUX+Designer;Product+Designer;Frontend+Enthusiast;Creating+Beautiful+Digital+Experiences;Always+Learning+New+Technologies" />
+</p>
 
 <p align="center">
-Designing intuitive digital experiences with a focus on usability, accessibility, and modern UI.
+  <img src="https://komarev.com/ghpvc/?username=sanjeevan200&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/sanjeevan200?style=for-the-badge&color=7F5AF0"/>
+  <img src="https://img.shields.io/github/stars/sanjeevan200?style=for-the-badge&color=7F5AF0"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎨 Associate UI/UX Designer
-- 💡 Passionate about creating user-centered digital products
-- 📱 Designing responsive web and mobile interfaces
-- 🌱 Currently learning advanced UX research and front-end development
-- 🤝 Open to collaborations on UI/UX and web design projects
-- ⚡ Fun fact: Great design is invisible until it's missing.
+```javascript
+const sanjeevan = {
+    role: "Associate UI/UX Designer",
+    location: "Sri Lanka",
+    focus: [
+        "UI Design",
+        "UX Research",
+        "Design Systems",
+        "Frontend Development"
+    ],
+    currentlyLearning: [
+        "React",
+        "Advanced UX",
+        "Accessibility"
+    ],
+    motto: "Design is intelligence made visible."
+}
+```
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### 🎨 Design
+### Design
+
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd"/>
 </p>
 
-### 💻 Front-End
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react"/>
 </p>
 
-### ⚙️ Development
+### Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjeevan200&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevan200&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=sanjeevan200&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevan200&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📂 Featured Projects
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanjeevan200&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action below to generate the snake animation.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sanjeevan200/sanjeevan200/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌌 3D Contribution Calendar
+
+> Generated automatically by GitHub Actions.
+
+<p align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</p>
+
+---
+
+# 🎧 Spotify
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
+
+</p>
+
+---
+
+# ⏱ WakaTime
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💻 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| 🚀 Project One | Short description about your project. |
-| 🎨 Project Two | Short description about your project. |
-| 📱 Project Three | Short description about your project. |
+| 🎨 Portfolio | Modern UI/UX case studies |
+| 🛒 Eagle Eye View | E-commerce website |
+| 💻 POS System | Complete POS solution |
+| 📱 Mobile UI | Mobile app interfaces |
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://behance.net/YOUR_BEHANCE" target="_blank">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+<a href="https://behance.net/YOUR_BEHANCE">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance"/>
 </a>
 
-<a href="https://dribbble.com/YOUR_DRIBBBLE" target="_blank">
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
+<a href="https://dribbble.com/YOUR_DRIBBBLE">
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble"/>
 </a>
 
-<a href="https://portfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 </p>
 
 ---
 
-## 💭 Favorite Quote
+# 💬 Quote
 
-> *"Design is intelligence made visible."* — Alina Wheeler
+> **"Design is intelligence made visible."** — Alina Wheeler
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
-<p align="center">
-⭐ Thanks for visiting my profile!
+<img src="./assets/waves.svg" width="100%"/>
+
+### ⭐ Thanks for visiting my profile!
+
 </p>
-```
+````
