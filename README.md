@@ -1,4 +1,8 @@
-```markdown
+# Hi 👋, I'm Sanjeevan
+
+## 🚀 About Me
+- Associate UI/UX Designer
+- Passionate about UI/UX
 <h1 align="center">Hi 👋, I'm Sanjeevan</h1>
 
 <h3 align="center">
