@@ -1,208 +1,115 @@
-<!-- ===================================================== -->
-<!--                  SANJEEVAN200 PROFILE                  -->
-<!-- ===================================================== -->
-
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Sanjeevan Banner"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Sanjeevan</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Associate+UI%2FUX+Designer;Product+Designer;Frontend+Enthusiast;Creating+Beautiful+Digital+Experiences;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeevan200&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/sanjeevan200?style=for-the-badge&color=7F5AF0"/>
-  <img src="https://img.shields.io/github/stars/sanjeevan200?style=for-the-badge&color=7F5AF0"/>
-</p>
-
----
-
-# 💫 About Me
-
-```javascript
-const sanjeevan = {
-    role: "Associate UI/UX Designer",
-    location: "Sri Lanka",
-    focus: [
-        "UI Design",
-        "UX Research",
-        "Design Systems",
-        "Frontend Development"
-    ],
-    currentlyLearning: [
-        "React",
-        "Advanced UX",
-        "Accessibility"
-    ],
-    motto: "Design is intelligence made visible."
-}
-```
-
----
-
-# 🛠 Tech Stack
-
-### Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,xd"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjeevan200&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevan200&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sanjeevan200&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevan200&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjeevan200&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action below to generate the snake animation.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sanjeevan200/sanjeevan200/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🌌 3D Contribution Calendar
-
-> Generated automatically by GitHub Actions.
-
-<p align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</p>
-
----
-
-# 🎧 Spotify
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-
-</p>
-
----
-
-# ⏱ WakaTime
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 LeetCode
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🎨 Portfolio | Modern UI/UX case studies |
-| 🛒 Eagle Eye View | E-commerce website |
-| 💻 POS System | Complete POS solution |
-| 📱 Mobile UI | Mobile app interfaces |
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<div align="center">
+
+<!-- ============ BANNER ============ -->
+<!-- Upload banner.svg to this repo (e.g. as assets/banner.svg) then point this src at it -->
+<img src="./assets/banner.svg" width="100%" alt="Sanjeevan banner" />
+
+<!-- ============ TYPING ANIMATION ============ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=8B5CF6&background=00000000&center=true&vCenter=true&width=600&lines=Associate+UI%2FUX+Designer;Software+Developer;I+design+it%2C+then+I+build+it;Currently+shipping+something+new" alt="Typing SVG" />
 </a>
 
-<a href="https://behance.net/YOUR_BEHANCE">
-<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance"/>
-</a>
+<br/>
 
-<a href="https://dribbble.com/YOUR_DRIBBBLE">
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble"/>
-</a>
+<!-- ============ SOCIAL / CONTACT BADGES — replace links ============ -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=figma&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-</p>
+</div>
 
----
+<br/>
 
-# 💬 Quote
+## 🧩 About Me
 
-> **"Design is intelligence made visible."** — Alina Wheeler
+- 🎨 I design interfaces first, then build the product that ships them
+- 💻 Currently working across **UI/UX Design**, **Logo Design**, and **Full-stack Development**
+- 🌱 Always refining my eye for typography, spacing, and motion
+- ⚡ Fun fact: I probably have an opinion about your border-radius
 
----
+<br/>
 
-<p align="center">
+## 🛠️ Tools & Stack
 
-<img src="./assets/waves.svg" width="100%"/>
+<div align="center">
 
-### ⭐ Thanks for visiting my profile!
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=8B5CF6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-000000?style=for-the-badge&logo=adobexd&logoColor=EC4899)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=22D3EE)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=8B5CF6)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
+![Figma](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=EC4899)
 
-</p>
-````
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=22D3EE&text_color=E5E7EB&border_color=8B5CF6" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=E5E7EB&border_color=8B5CF6" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=94A3B8" width="60%" />
+
+</div>
+
+<br/>
+
+## 🏆 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" />
+
+</div>
+
+<br/>
+
+## 🎧 Now Playing on Spotify
+
+<!-- Requires deploying novatorem/spotify-github-profile to your own Vercel project — see notes below -->
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false" width="60%" />
+
+</div>
+
+<br/>
+
+## ⏱️ WakaTime Weekly Stats
+
+<!-- The wakatime.yml GitHub Action rewrites everything between these two comments automatically. Don't delete the markers. -->
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<!-- After the "Generate Snake Animation" workflow runs once, it publishes these files to the "output" branch -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+<br/>
+
+## 🧱 3D Contribution Graph
+
+<!-- Generated by the contrib3d.yml workflow into /profile-3d-contrib -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+</div>
