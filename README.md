@@ -48,31 +48,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=22D3EE&text_color=E5E7EB&border_color=8B5CF6" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=E5E7EB&border_color=8B5CF6" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sanjeevan200&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=22D3EE&text_color=E5E7EB&border_color=8B5CF6" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevan200&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=E5E7EB&border_color=8B5CF6" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=94A3B8" width="60%" />
-
-</div>
-
-<br/>
-
-## 🏆 LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="60%" />
-
-</div>
-
-<br/>
-
-## 🎧 Now Playing on Spotify
-
-<!-- Requires deploying novatorem/spotify-github-profile to your own Vercel project — see notes below -->
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false" width="60%" />
+<img src="https://streak-stats.demolab.com?user=sanjeevan200&hide_border=true&background=00000000&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=94A3B8" width="60%" />
 
 </div>
 
